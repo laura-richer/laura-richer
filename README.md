@@ -5,7 +5,7 @@ Frontend Developer
 ------------------
 
 * 🌍  I'm based in Yorkshire
-* 🧠  I'm learning Strapi, Nuxt & GraphQL
+* 🧠  I'm learning Strapi, Astro, Nuxt & GraphQL
 
 ### Skills
 
