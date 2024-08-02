@@ -5,7 +5,7 @@ Frontend Developer
 ------------------
 
 * 🌍  I'm based in Yorkshire
-* 🧠  I'm learning Nuxt, React Native, Vitest & Typescript
+* 🧠  I'm learning Nuxt, React Native, Unit testing & Typescript
 
 ### Skills
 
